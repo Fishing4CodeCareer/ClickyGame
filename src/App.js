@@ -1,5 +1,6 @@
 import React from "react";
-import Wrapper from "./components/Title";
+import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
 import StrainsCard from "./components/StrainsCard";
 import strains from "./strains.json";
 //Strains Cards Created for Product info name, image, type, cbd %//
