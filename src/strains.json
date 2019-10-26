@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "name": "Green Crack",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Green_Crack_500x500.png",
+        "type": "Sativa",
+        "cbd": "THC 24%"
+    },
+    {
+        "id": "2",
+        "name": "Sour Diesel",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Sour_Diesel_500x500.png",
+        "type": "Sativa",
+        "cbd": "THC 24%"
+    },
+    {
+        "id": "3",
+        "name": "OG Kush",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/OG_Kush_500x500.png",
+        "type": "Sativa",
+        "cbd": "THC 27%"
+    },
+    {
+        "id": "4",
+        "name": "Girl Scout Cookies",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Girl_Scout_Cookies.png",
+        "type": "Indica",
+        "cbd": "THC 28% / CBD 1%"
+    },
+    {
+        "id": "5",
+        "name": "Chemdawg",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Chemdawg.jpg",
+        "type": "HyBrid",
+        "cbd": "THC 22%"
+    },
+    {
+        "id": "6",
+        "name": "Fruity Pebbles",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Fruity_Pebbles.png",
+        "type": "Indica",
+        "cbd": "THC 23%"
+    },
+    {
+        "id": "7",
+        "name": "Khalifa Kush",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Khalifa_Kush.png",
+        "type": "Sativa",
+        "cbd": "THC 29% / CBD 2%"
+    },
+    {
+        "id": "8",
+        "name": "Orange Kus",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Orange_Kush.jpg",
+        "type": "HyBrid",
+        "cbd": "THC 24%"
+    },
+    {
+        "id": "9",
+        "name": "Willie Nelson",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Willie-Nelson-Icon.jpg",
+        "type": "Sativa",
+        "cbd": "THC 22%"
+    },
+    {
+        "id": "10",
+        "name": "Think Different",
+        "image":
+        "https://assets.wikileaf.com/assets/strains/strain/Think-Different-icon.png",
+        "type": "Sativa",
+        "cbd": "THC 18%"
+    }
+
+]
+
